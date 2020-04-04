@@ -3,14 +3,14 @@ def new_hash
 end
 
 def my_hash
-  song = { Trey Songz: "You belong to me"}
+  { Trey Songz: "You belong to me"}
 end
 
 def pioneer
- person = {name: "Grace Hooper"}
+ {name: "Grace Hooper"}
 end
 
 
 def id_hash_generator(number)
- number = 
+  {id: number}
 end
