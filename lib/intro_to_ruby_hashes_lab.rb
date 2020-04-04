@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  { Trey Songz: "You belong to me"}
+  { trey_songz: "You belong to me"}
 end
 
 def pioneer
